@@ -1,11 +1,11 @@
 <?php
-declare(strict_types = 1);
+declare(strict_types=1);
 
 namespace Voucher\Entity;
 
-use Voucher\Utils\ObjectAndArray;
 use DateTime;
 use Doctrine\ORM\Mapping as ORM;
+use Voucher\Utils\ObjectAndArray;
 
 /**
  * Voucher
